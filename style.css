@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color:beige;
+}
+.image{
+    width:400px;
+    height:400px;
+    margin-right:10px;
+    }
+.text{
+     width:400px;
+       background-color:white;
+}
+.image-section{
+display: flex;
+    justify-content:center;
+}
